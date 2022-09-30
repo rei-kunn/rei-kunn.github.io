@@ -1042,6 +1042,28 @@ a.goto-social:hover {
 .experience-wrap .job-loc {
   display: block;
 }
+
+a:link {
+  color: #fff;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #fff;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #fff;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 .experience-wrap .job-desn {
   color: #ccc;
   font-family: "Hind", sans-serif;
